@@ -1,9 +1,10 @@
+
 import React from 'react'
 
-const brand = () => {
+const Brand = () => {
   return (
     <div>brand</div>
   )
 }
 
-export default brand
+export default Brand
