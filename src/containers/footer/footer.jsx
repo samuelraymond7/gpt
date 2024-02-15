@@ -16,7 +16,7 @@ const Footer = () => {
         <div className="gpt3__footer-links__logo">
           <img src={gptlogo} alt="logo" />
           <p>Crechterwoord K12 182 DK Alknjkcb</p>
-          <p>085-132567</p>
+          <p>085-123123</p>
           <p>info@payme.net</p>
         </div>
 
@@ -39,12 +39,12 @@ const Footer = () => {
         <div className="gpt3__footer-links__div">
           <h4>Get in touch</h4>
           <p>Crechterwoord K12 182 DK Alknjkcb</p>
-          <p>085-132567</p>
+          <p>085-123123</p>
           <p>info@payme.net</p>
         </div>
       </div>
       <div className='gpt3__footer-copyright'>
-        <p>All right reserved.</p>
+        <p><a href="https://youtu.be/F627pKNUCVQ?si=X7jNPxSNJ6-uCGII" target="_blank"rel='noopener noreferrer'>Design by JavaScript Mastery</a></p>
       </div>
     </div>
   )

@@ -110,7 +110,9 @@
     font-size: 12px;
     line-height: 14px;
     color: #ffffff;
-
+}
+.gpt3__footer-copyright:hover{
+    text-decoration: underline;
 }
 
 @media screen and (max-width:850px){
