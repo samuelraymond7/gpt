@@ -27,8 +27,10 @@ const Navbar = () => {
       </div>
 
       <div className='gpt3__navbar-sign'>
-        <p>Sign in</p>
-        <button type='button'>Sign Up</button>
+        <a href="https://samuelraymond7.github.io/portofolio/" target='_blank' rel='noopener noreferrer'>Portofolio</a>
+        <button type='button'>
+          <a href="https://www.linkedin.com/in/samuel-raymond-pranowo/" target='_blank' rel='noopener noreferrer'>LinkedIn</a>
+        </button>
       </div>
 
       <div className='gpt3__navbar-menu'>
@@ -38,8 +40,10 @@ const Navbar = () => {
             <div className='gpt3__navbar-menu_container-links'>
               <Menu/>
               <div className='gpt3__navbar-menu_container-links-sign'>
-                <p>Sign in</p>
-                <button type='button'>Sign Up</button>
+                <p><a href="https://samuelraymond7.github.io/portofolio/" target='_blank' rel='noopener noreferrer'>Portofolio</a></p>
+                <button type='button'>
+                  <a href="https://www.linkedin.com/in/samuel-raymond-pranowo/" target='_blank' rel='noopener noreferrer'>LinkedIn</a>
+                </button>
               </div>
             </div>
           </div>
